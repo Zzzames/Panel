@@ -1,0 +1,10 @@
+D:\Users\dtz123\source\repos\DA\bin\Debug\DA.exe.config
+D:\Users\dtz123\source\repos\DA\bin\Debug\DA.exe
+D:\Users\dtz123\source\repos\DA\bin\Debug\DA.pdb
+D:\Users\dtz123\source\repos\DA\obj\Debug\DA.csproj.AssemblyReference.cache
+D:\Users\dtz123\source\repos\DA\obj\Debug\DA.DAForm.resources
+D:\Users\dtz123\source\repos\DA\obj\Debug\DA.Properties.Resources.resources
+D:\Users\dtz123\source\repos\DA\obj\Debug\DA.csproj.GenerateResource.cache
+D:\Users\dtz123\source\repos\DA\obj\Debug\DA.csproj.CoreCompileInputs.cache
+D:\Users\dtz123\source\repos\DA\obj\Debug\DA.exe
+D:\Users\dtz123\source\repos\DA\obj\Debug\DA.pdb

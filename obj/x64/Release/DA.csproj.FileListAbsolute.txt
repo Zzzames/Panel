@@ -1,0 +1,272 @@
+D:\Users\dtz123\source\repos\DA\obj\x64\Release\DA.DAForm.resources
+D:\Users\dtz123\source\repos\DA\obj\x64\Release\DA.Properties.Resources.resources
+D:\Users\dtz123\source\repos\DA\obj\x64\Release\DA.csproj.GenerateResource.cache
+D:\Users\dtz123\source\repos\DA\obj\x64\Release\DA.csproj.CoreCompileInputs.cache
+D:\Users\dtz123\source\repos\DA\obj\x64\Release\DA.exe
+D:\Users\dtz123\source\repos\DA\obj\x64\Release\DA.pdb
+D:\Users\dtz123\source\repos\DA\obj\x64\Release\DA.csproj.AssemblyReference.cache
+D:\Users\dtz123\source\repos\DA\obj\x64\Release\DA.csproj.CopyComplete
+D:\Users\dtz123\source\repos\DA\sqlite3.dll
+D:\Users\dtz123\source\repos\DA\DA.exe.config
+D:\Users\dtz123\source\repos\DA\DA.exe
+D:\Users\dtz123\source\repos\DA\DA.pdb
+D:\Users\dtz123\source\repos\DA\EntityFramework.dll
+D:\Users\dtz123\source\repos\DA\EntityFramework.SqlServer.dll
+D:\Users\dtz123\source\repos\DA\System.Data.SQLite.dll
+D:\Users\dtz123\source\repos\DA\System.Data.SQLite.EF6.dll
+D:\Users\dtz123\source\repos\DA\System.Data.SQLite.Linq.dll
+D:\Users\dtz123\source\repos\DA\EntityFramework.xml
+D:\Users\dtz123\source\repos\DA\EntityFramework.SqlServer.xml
+D:\Users\dtz123\source\repos\DA\System.Data.SQLite.xml
+D:\Users\dtz123\source\repos\DA - 250618\obj\x64\Release\DA.csproj.AssemblyReference.cache
+D:\Users\dtz123\source\repos\DA - 250618\obj\x64\Release\DA.DAForm.resources
+D:\Users\dtz123\source\repos\DA - 250618\obj\x64\Release\DA.Properties.Resources.resources
+D:\Users\dtz123\source\repos\DA - 250618\obj\x64\Release\DA.csproj.GenerateResource.cache
+D:\Users\dtz123\source\repos\DA - 250618\obj\x64\Release\DA.csproj.CoreCompileInputs.cache
+D:\Users\dtz123\source\repos\DA - 250618\obj\x64\Release\DA.csproj.CopyComplete
+D:\Users\dtz123\source\repos\DA - 250618\sqlite3.dll
+D:\Users\dtz123\source\repos\DA - 250618\DA.exe.config
+D:\Users\dtz123\source\repos\DA - 250618\obj\x64\Release\DA.exe
+D:\Users\dtz123\source\repos\DA - 250618\obj\x64\Release\DA.pdb
+D:\Users\dtz123\source\repos\DA - 250618\DA.exe
+D:\Users\dtz123\source\repos\DA - 250618\DA.pdb
+D:\Users\dtz123\source\repos\DA - 250618\EntityFramework.dll
+D:\Users\dtz123\source\repos\DA - 250618\EntityFramework.SqlServer.dll
+D:\Users\dtz123\source\repos\DA - 250618\System.Data.SQLite.dll
+D:\Users\dtz123\source\repos\DA - 250618\System.Data.SQLite.EF6.dll
+D:\Users\dtz123\source\repos\DA - 250618\System.Data.SQLite.Linq.dll
+D:\Users\dtz123\source\repos\DA - 250618\EntityFramework.xml
+D:\Users\dtz123\source\repos\DA - 250618\EntityFramework.SqlServer.xml
+D:\Users\dtz123\source\repos\DA - 250618\System.Data.SQLite.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250623\obj\x64\Release\DA.csproj.AssemblyReference.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250623\obj\x64\Release\DA.DAForm.resources
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250623\obj\x64\Release\DA.Properties.Resources.resources
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250623\obj\x64\Release\DA.csproj.GenerateResource.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250623\obj\x64\Release\DA.csproj.CoreCompileInputs.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250623\obj\x64\Release\DA.csproj.CopyComplete
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250623\sqlite3.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250623\DA.exe.config
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250623\obj\x64\Release\DA.exe
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250623\obj\x64\Release\DA.pdb
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250623\DA.exe
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250623\DA.pdb
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250623\EntityFramework.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250623\EntityFramework.SqlServer.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250623\System.Data.SQLite.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250623\System.Data.SQLite.EF6.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250623\System.Data.SQLite.Linq.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250623\EntityFramework.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250623\EntityFramework.SqlServer.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250623\System.Data.SQLite.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块\obj\x64\Release\DA.csproj.AssemblyReference.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块\obj\x64\Release\DA.DAForm.resources
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块\obj\x64\Release\DA.Properties.Resources.resources
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块\obj\x64\Release\DA.csproj.GenerateResource.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块\obj\x64\Release\DA.csproj.CoreCompileInputs.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块\obj\x64\Release\DA.exe
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块\obj\x64\Release\DA.pdb
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块\obj\x64\Release\DA.csproj.CopyComplete
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块\sqlite3.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块\DA.exe.config
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块\DA.exe
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块\DA.pdb
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块\EntityFramework.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块\EntityFramework.SqlServer.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块\System.Data.SQLite.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块\System.Data.SQLite.EF6.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块\System.Data.SQLite.Linq.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块\EntityFramework.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块\EntityFramework.SqlServer.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块\System.Data.SQLite.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块+定时关闭\obj\x64\Release\DA.DAForm.resources
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块+定时关闭\obj\x64\Release\DA.Properties.Resources.resources
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块+定时关闭\obj\x64\Release\DA.csproj.GenerateResource.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块+定时关闭\obj\x64\Release\DA.csproj.CoreCompileInputs.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块+定时关闭\obj\x64\Release\DA.csproj.CopyComplete
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块+定时关闭\sqlite3.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块+定时关闭\DA.exe.config
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块+定时关闭\obj\x64\Release\DA.exe
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块+定时关闭\obj\x64\Release\DA.pdb
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块+定时关闭\DA.exe
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块+定时关闭\DA.pdb
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块+定时关闭\EntityFramework.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块+定时关闭\EntityFramework.SqlServer.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块+定时关闭\System.Data.SQLite.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块+定时关闭\System.Data.SQLite.EF6.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块+定时关闭\System.Data.SQLite.Linq.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块+定时关闭\EntityFramework.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块+定时关闭\EntityFramework.SqlServer.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块+定时关闭\System.Data.SQLite.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250624-上报模块+定时关闭\obj\x64\Release\DA.csproj.AssemblyReference.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250625-增加曲线图\obj\x64\Release\DA.csproj.AssemblyReference.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250625-增加曲线图\obj\x64\Release\DA.DAForm.resources
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250625-增加曲线图\obj\x64\Release\DA.Properties.Resources.resources
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250625-增加曲线图\obj\x64\Release\DA.csproj.GenerateResource.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250625-增加曲线图\obj\x64\Release\DA.csproj.CoreCompileInputs.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250625-增加曲线图\obj\x64\Release\DA.csproj.CopyComplete
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250625-增加曲线图\sqlite3.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250625-增加曲线图\DA.exe.config
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250625-增加曲线图\obj\x64\Release\DA.exe
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250625-增加曲线图\obj\x64\Release\DA.pdb
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250625-增加曲线图\DA.exe
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250625-增加曲线图\DA.pdb
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250625-增加曲线图\EntityFramework.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250625-增加曲线图\EntityFramework.SqlServer.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250625-增加曲线图\System.Data.SQLite.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250625-增加曲线图\System.Data.SQLite.EF6.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250625-增加曲线图\System.Data.SQLite.Linq.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250625-增加曲线图\EntityFramework.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250625-增加曲线图\EntityFramework.SqlServer.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250625-增加曲线图\System.Data.SQLite.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\obj\x64\Release\DA.csproj.AssemblyReference.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\obj\x64\Release\DA.DAForm.resources
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\obj\x64\Release\DA.Properties.Resources.resources
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\obj\x64\Release\DA.csproj.GenerateResource.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\obj\x64\Release\DA.csproj.CoreCompileInputs.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\obj\x64\Release\DA.csproj.CopyComplete
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\sqlite3.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\DA.exe.config
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\obj\x64\Release\DA.exe
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\obj\x64\Release\DA.pdb
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\DA.exe
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\DA.pdb
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\EntityFramework.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\EntityFramework.SqlServer.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\System.Data.SQLite.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\System.Data.SQLite.EF6.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\System.Data.SQLite.Linq.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\EntityFramework.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\EntityFramework.SqlServer.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\System.Data.SQLite.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\x64\sqlite3.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\x64\DA.exe.config
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\x64\DA.exe
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\x64\DA.pdb
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\x64\EntityFramework.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\x64\EntityFramework.SqlServer.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\x64\System.Data.SQLite.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\x64\System.Data.SQLite.EF6.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\x64\System.Data.SQLite.Linq.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\x64\EntityFramework.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\x64\EntityFramework.SqlServer.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250626-修复曲线图bug\x64\System.Data.SQLite.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702\x64\sqlite3.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702\x64\EntityFramework.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702\x64\EntityFramework.SqlServer.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702\x64\System.Data.SQLite.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702\x64\System.Data.SQLite.EF6.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702\x64\System.Data.SQLite.Linq.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702\x64\EntityFramework.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702\x64\EntityFramework.SqlServer.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702\x64\System.Data.SQLite.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702\obj\x64\Release\DA.csproj.AssemblyReference.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702\obj\x64\Release\DA.DAForm.resources
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702\obj\x64\Release\DA.Properties.Resources.resources
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702\obj\x64\Release\DA.csproj.GenerateResource.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702\obj\x64\Release\DA.csproj.CoreCompileInputs.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702\obj\x64\Release\DA.csproj.CopyComplete
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702\x64\多设备数据采集上位机.exe.config
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702\x64\多设备数据采集上位机.exe
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702\x64\多设备数据采集上位机.pdb
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702\obj\x64\Release\多设备数据采集上位机.exe
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702\obj\x64\Release\多设备数据采集上位机.pdb
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702 - 修改USBPcap过滤器硬编码bug\x64\sqlite3.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702 - 修改USBPcap过滤器硬编码bug\x64\多设备数据采集上位机.exe.config
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702 - 修改USBPcap过滤器硬编码bug\x64\多设备数据采集上位机.exe
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702 - 修改USBPcap过滤器硬编码bug\x64\多设备数据采集上位机.pdb
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702 - 修改USBPcap过滤器硬编码bug\x64\EntityFramework.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702 - 修改USBPcap过滤器硬编码bug\x64\EntityFramework.SqlServer.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702 - 修改USBPcap过滤器硬编码bug\x64\System.Data.SQLite.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702 - 修改USBPcap过滤器硬编码bug\x64\System.Data.SQLite.EF6.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702 - 修改USBPcap过滤器硬编码bug\x64\System.Data.SQLite.Linq.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702 - 修改USBPcap过滤器硬编码bug\x64\EntityFramework.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702 - 修改USBPcap过滤器硬编码bug\x64\EntityFramework.SqlServer.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702 - 修改USBPcap过滤器硬编码bug\x64\System.Data.SQLite.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702 - 修改USBPcap过滤器硬编码bug\obj\x64\Release\DA.csproj.AssemblyReference.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702 - 修改USBPcap过滤器硬编码bug\obj\x64\Release\DA.DAForm.resources
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702 - 修改USBPcap过滤器硬编码bug\obj\x64\Release\DA.Properties.Resources.resources
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702 - 修改USBPcap过滤器硬编码bug\obj\x64\Release\DA.csproj.GenerateResource.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702 - 修改USBPcap过滤器硬编码bug\obj\x64\Release\DA.csproj.CoreCompileInputs.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702 - 修改USBPcap过滤器硬编码bug\obj\x64\Release\DA.csproj.CopyComplete
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702 - 修改USBPcap过滤器硬编码bug\obj\x64\Release\多设备数据采集上位机.exe
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250702 - 修改USBPcap过滤器硬编码bug\obj\x64\Release\多设备数据采集上位机.pdb
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250703 - 修改图标绘制bug\obj\x64\Release\DA.csproj.AssemblyReference.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250703 - 修改图标绘制bug\obj\x64\Release\DA.DAForm.resources
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250703 - 修改图标绘制bug\obj\x64\Release\DA.Properties.Resources.resources
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250703 - 修改图标绘制bug\obj\x64\Release\DA.csproj.GenerateResource.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250703 - 修改图标绘制bug\obj\x64\Release\DA.csproj.CoreCompileInputs.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250703 - 修改图标绘制bug\obj\x64\Release\多设备数据采集上位机.exe
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250703 - 修改图标绘制bug\obj\x64\Release\多设备数据采集上位机.pdb
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250703 - 修改图标绘制bug\x64\sqlite3.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250703 - 修改图标绘制bug\x64\多设备数据采集上位机.exe.config
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250703 - 修改图标绘制bug\x64\多设备数据采集上位机.exe
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250703 - 修改图标绘制bug\x64\多设备数据采集上位机.pdb
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250703 - 修改图标绘制bug\x64\EntityFramework.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250703 - 修改图标绘制bug\x64\EntityFramework.SqlServer.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250703 - 修改图标绘制bug\x64\System.Data.SQLite.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250703 - 修改图标绘制bug\x64\System.Data.SQLite.EF6.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250703 - 修改图标绘制bug\x64\System.Data.SQLite.Linq.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250703 - 修改图标绘制bug\x64\EntityFramework.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250703 - 修改图标绘制bug\x64\EntityFramework.SqlServer.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250703 - 修改图标绘制bug\x64\System.Data.SQLite.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250703 - 修改图标绘制bug\obj\x64\Release\DA.csproj.CopyComplete
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250704 - 保存上次配置\x64\sqlite3.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250704 - 保存上次配置\x64\多设备数据采集上位机.exe.config
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250704 - 保存上次配置\x64\多设备数据采集上位机.exe
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250704 - 保存上次配置\x64\多设备数据采集上位机.pdb
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250704 - 保存上次配置\x64\EntityFramework.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250704 - 保存上次配置\x64\EntityFramework.SqlServer.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250704 - 保存上次配置\x64\System.Data.SQLite.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250704 - 保存上次配置\x64\System.Data.SQLite.EF6.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250704 - 保存上次配置\x64\System.Data.SQLite.Linq.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250704 - 保存上次配置\x64\EntityFramework.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250704 - 保存上次配置\x64\EntityFramework.SqlServer.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250704 - 保存上次配置\x64\System.Data.SQLite.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250704 - 保存上次配置\obj\x64\Release\DA.csproj.AssemblyReference.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250704 - 保存上次配置\obj\x64\Release\DA.DAForm.resources
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250704 - 保存上次配置\obj\x64\Release\DA.Properties.Resources.resources
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250704 - 保存上次配置\obj\x64\Release\DA.csproj.GenerateResource.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250704 - 保存上次配置\obj\x64\Release\DA.csproj.CoreCompileInputs.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250704 - 保存上次配置\obj\x64\Release\DA.csproj.CopyComplete
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250704 - 保存上次配置\obj\x64\Release\多设备数据采集上位机.exe
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250704 - 保存上次配置\obj\x64\Release\多设备数据采集上位机.pdb
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250711 - 上传模块测试\x64\sqlite3.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250711 - 上传模块测试\x64\多设备数据采集上位机.exe.config
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250711 - 上传模块测试\x64\多设备数据采集上位机.exe
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250711 - 上传模块测试\x64\多设备数据采集上位机.pdb
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250711 - 上传模块测试\x64\EntityFramework.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250711 - 上传模块测试\x64\EntityFramework.SqlServer.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250711 - 上传模块测试\x64\System.Data.SQLite.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250711 - 上传模块测试\x64\System.Data.SQLite.EF6.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250711 - 上传模块测试\x64\System.Data.SQLite.Linq.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250711 - 上传模块测试\x64\EntityFramework.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250711 - 上传模块测试\x64\EntityFramework.SqlServer.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250711 - 上传模块测试\x64\System.Data.SQLite.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250711 - 上传模块测试\obj\x64\Release\DA.csproj.AssemblyReference.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250711 - 上传模块测试\obj\x64\Release\DA.DAForm.resources
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250711 - 上传模块测试\obj\x64\Release\DA.Properties.Resources.resources
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250711 - 上传模块测试\obj\x64\Release\DA.csproj.GenerateResource.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250711 - 上传模块测试\obj\x64\Release\DA.csproj.CoreCompileInputs.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250711 - 上传模块测试\obj\x64\Release\DA.csproj.CopyComplete
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250711 - 上传模块测试\obj\x64\Release\多设备数据采集上位机.exe
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250711 - 上传模块测试\obj\x64\Release\多设备数据采集上位机.pdb
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250714\output\sqlite3.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250714\output\多设备数据采集上位机.exe.config
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250714\output\多设备数据采集上位机.exe
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250714\output\多设备数据采集上位机.pdb
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250714\output\EntityFramework.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250714\output\EntityFramework.SqlServer.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250714\output\System.Data.SQLite.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250714\output\System.Data.SQLite.EF6.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250714\output\System.Data.SQLite.Linq.dll
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250714\output\EntityFramework.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250714\output\EntityFramework.SqlServer.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250714\output\System.Data.SQLite.xml
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250714\obj\x64\Release\DA.csproj.AssemblyReference.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250714\obj\x64\Release\DA.DAForm.resources
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250714\obj\x64\Release\DA.Properties.Resources.resources
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250714\obj\x64\Release\DA.csproj.GenerateResource.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250714\obj\x64\Release\DA.csproj.CoreCompileInputs.cache
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250714\obj\x64\Release\DA.csproj.CopyComplete
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250714\obj\x64\Release\多设备数据采集上位机.exe
+D:\Users\dtz123\source\repos\多设备数据采集上位机 - 20250714\obj\x64\Release\多设备数据采集上位机.pdb
